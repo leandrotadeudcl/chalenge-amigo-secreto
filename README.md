@@ -26,6 +26,17 @@ Ao final da lista, você deve sortear o amigo secreto. O programa irá te mostra
 ---
 ### 🛠️ Abrir e rodar o projeto
 - clique com o botão direito sobre o arquivo com extensão .html e selecione abrir com **Google Chrome**
-- agora é só inserir os nomes e realizar o sorteio.
+- agora é só inserir os nomes e clicar em adicionar
+
+![image](https://github.com/user-attachments/assets/2f38198a-c5e6-4098-bddf-fcbdd160763f)
+
+- após clicar em adicionar, irá aparecer no nome cadastrado na tela principal e a tela de cadastro fica vazia, aguardando o próximo nome
+
+![image](https://github.com/user-attachments/assets/36deb20f-5619-4cf1-84ba-44816ae69999)
+
+- após o cadastro de todos os nomes, é só clicar no botão sortear amigo para realizar o sorteio e o resultado aparecerá na tela principal
+
+![image](https://github.com/user-attachments/assets/9c96a9f0-418d-42f2-883d-de5303dc0aeb)
+
 
 
